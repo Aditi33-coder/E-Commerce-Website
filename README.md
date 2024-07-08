@@ -9,6 +9,7 @@
 
 # Project : E-Commerce Website 
 
+![Screenshot 2024-07-08 183259](https://github.com/Aditi33-coder/E-Commerce-Website/assets/139349539/704ded4b-caef-4f61-88c5-d14b021da841)
 
 <h3>Objective  : The objective of this project is to Develop a fully functional e-commerce platform where users can browse products, add them to cart, make purchases, and manage their orders. Incorporate features like user accounts, product search, sorting/filtering options, and secure payment gateways for
 a seamless shopping experience.</h3>
